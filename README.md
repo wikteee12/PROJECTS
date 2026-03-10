@@ -1,4 +1,4 @@
-# 62. Shopping Cart Simulator
+# Shopping Cart Simulator
 **Akademia Górniczo-Hutnicza**
 Projekt z przedmiotu: Języki programowania obiektowego
 Kierunek: Elektronika i Telekomunikacja, 3 rok
